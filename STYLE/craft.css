@@ -159,3 +159,23 @@ input{
     margin-left: 700px;
     margin-top: 30px;
 }
+
+.finalcontact{
+    display: flex;
+    gap:200px;
+    padding: 90px;
+    margin-left: 10PX;
+    margin-top: -40px;
+    
+    
+}
+
+.final{
+    background-color: rgb(24, 13, 43);
+    color: white;
+}
+
+.pp{
+    padding-left: 500px;
+    margin-top: -70px;
+}
